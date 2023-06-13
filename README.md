@@ -3,7 +3,7 @@
 <img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit150803&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit150803" /> </p>
 
-- 🌱 I’m currently a full stack MERN developer learning **React Native**
+- 🌱 I’m currently a full stack MERN developer learning **Blockchain Development**
 
 - 📫 How to reach me **biswajitghosh150803@gmail.com**
 
