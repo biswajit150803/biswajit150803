@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **biswajitghosh150803@gmail.com**
 
-- ⚡ Fun fact **Common sense is not so common these days!**
+- ⚡ All of my projects are available at **https://biswajitghoshportfolio.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
